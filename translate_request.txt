@@ -1,0 +1,18 @@
+    
+### Instruction:
+Translate the following English text into Arabic accurately.
+
+### Input:
+It was a soft purring voice ‐ a voice used deliberately as an instrument ‐ nothing impulsive
+or unpremeditated about it. Hercule Poirot swung round.
+He bowed. He shook hands ceremoniously.
+There was something in his eye that was unusual. One would have said that this chance
+encounter awakened in him an emotion that he seldom had occasion to feel.
+“My dear Mr. Shaitana,” he said.
+They both paused. They were like duelists en garde.
+Around them a well‐dressed languid London crowd eddied mildly. Voices drawled or
+murmured.
+
+### Response:
+
+  
